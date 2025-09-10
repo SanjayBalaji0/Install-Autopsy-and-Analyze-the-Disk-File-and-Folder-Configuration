@@ -1,4 +1,4 @@
-# Install Autopsy and Analyze the Disk File and Folder Configuration
+ # Install Autopsy and Analyze the Disk File and Folder Configuration
 
 ## AIM
 To install **Autopsy** and use it to analyze the disk’s file and folder configuration for forensic investigation.
@@ -51,7 +51,28 @@ Export or recover files if required for the investigation.
 8.Export selected files for further examination.
 
 ## OUTPUT:
-File and Folder Configuration Analysis Results
+
+![alt text](<Image 1.png>)
+
+![alt text](<Image 2.png>)
+
+![alt text](<Image 3.png>)
+
+![alt text](<Image 4.png>)
+
+![alt text](<Image 5.png>)
+
+![alt text](<Image 6.png>)
+
+![alt text](<Image 7.png>)
+
+![alt text](<Image 8.png>)
+
+![alt text](<Image 9.png>)
+
+![alt text](<Image 10.png>)
+
+![alt text](<Image 11.png>)
 
 ## RESULT:
 Autopsy was installed successfully and used to analyze disk, file, and folder configuration for forensic investigation.
